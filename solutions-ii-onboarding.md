@@ -1,6 +1,6 @@
 <!--
-author:   Jim Pyle
-email:    jimpyle@gmail.com
+author:   Solutions II — People & Culture
+email:    info@solutions-ii.com
 version:  1.0.0
 language: en
 narrator: US English Female
