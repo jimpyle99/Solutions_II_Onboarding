@@ -1,7 +1,7 @@
 <!--
 author:   Solutions II — People & Culture
 email:    info@solutions-ii.com
-version:  1.0.0
+version:  1.1.1
 language: en
 narrator: US English Female
 
@@ -18,9 +18,6 @@ link:     https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.c
 
 Welcome to the team! This short module introduces who we are, how we've grown, and what makes us successful — so you can see exactly where you fit in.
 
---{{0}}--
-Welcome to Solutions Two. This short module will introduce who we are, how we've grown, and what makes us successful, so you can see exactly where you fit in.
-
 By the end, you'll be able to:
 
      {{1}}
@@ -35,16 +32,13 @@ By the end, you'll be able to:
      {{4}}
 > ⏱️ **Time to complete:** about 10 minutes
 >
-> 💡 **Tip:** Switch to *Presentation* mode (top toolbar) for narrated audio.
+> 💡 **Tip:** Switch to *Presentation* or *Slides* mode (top toolbar) for the animated, step-by-step experience.
 
 ## Who We Are
 
 <section>
 
 Founded in **1992** and headquartered in **Colorado**, Solutions II is an IT services and consulting firm that helps organizations build secure, resilient technology environments.
-
---{{0}}--
-Founded in nineteen ninety-two and headquartered in Colorado, Solutions Two is an IT services and consulting firm that helps organizations build secure, resilient technology environments.
 
 </section>
 
@@ -65,9 +59,6 @@ We serve clients across **public safety, casino & gaming, healthcare, consumer p
 ## Our Growth Story
 
 From a single Colorado office in **1992**, Solutions II has grown into a nationally recognized leader — not by chasing size, but by deepening trust. **We grow when our clients and our people grow.**
-
---{{0}}--
-From a single Colorado office in nineteen ninety-two, Solutions Two has grown into a nationally recognized leader. Not by chasing size, but by deepening trust. We grow when our clients and our people grow.
 
      {{1}}
 ************************************************
@@ -126,9 +117,6 @@ Solutions II was founded in **1992** and has been building secure IT environment
 
 At the core of everything are three words: **Passion, Integrity, Quality** — plus a promise to focus on client success.
 
---{{0}}--
-At the core of everything are three words: Passion, Integrity, and Quality, plus a promise to focus on client success.
-
 <section>
 
      {{1}}
@@ -166,9 +154,6 @@ Which three words capture what Solutions II practices in everything we do?
 
 We're recognized not just for results, but for *how* we work.
 
---{{0}}--
-We're recognized not just for results, but for how we work.
-
      {{1}}
 > 🏅 **Great Place to Work Certified** — *100%* of Solutions II employees say it's a great place to work, compared with 57% at a typical U.S. company.
 
@@ -200,15 +185,9 @@ We're recognized not just for results, but for how we work.
 | **8+** | Countries visited by employees during sabbaticals |
 | **150+** | C-level executives in our monthly thought-leadership roundtables |
 
---{{1}}--
-A few numbers that capture our culture: more than four hundred certifications, fifty-plus organizations supported through volunteering, employee sabbaticals across eight or more countries, and monthly roundtables with over one hundred fifty senior executives.
-
 ## A Few Fun Facts 🎉
 
 The numbers tell one story — the culture tells another. A few things new teammates love discovering:
-
---{{0}}--
-The numbers tell one story. The culture tells another. Here are a few things new teammates love discovering.
 
 <section>
 
@@ -242,9 +221,6 @@ The numbers tell one story. The culture tells another. Here are a few things new
 ## Your Role in Our Success
 
 Here's the key idea to carry forward: **our success follows our clients' success — and our people make that possible.**
-
---{{0}}--
-Here's the key idea to carry forward. Our success follows our clients' success, and our people make that possible.
 
 <section>
 
@@ -294,9 +270,6 @@ Growth comes from passion, integrity, quality, and continuous learning — never
 
 Congratulations — you've completed the Solutions II Success & Growth module!
 
---{{0}}--
-Congratulations! You've completed the Solutions Two Success and Growth module.
-
 You now know **who we are**, **what drives our success**, and **how your work fuels our growth**.
 
      {{1}}
@@ -311,5 +284,3 @@ What's one value — Passion, Integrity, or Quality — you're most excited to b
 >
 > Welcome aboard. Let's grow together. 🚀
 
---{{2}}--
-Welcome aboard. Let's grow together.
