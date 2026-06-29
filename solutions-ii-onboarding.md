@@ -1,7 +1,7 @@
 <!--
 author:   Solutions II — People & Culture
 email:    info@solutions-ii.com
-version:  1.1.1
+version:  1.1.2
 language: en
 narrator: US English Female
 
